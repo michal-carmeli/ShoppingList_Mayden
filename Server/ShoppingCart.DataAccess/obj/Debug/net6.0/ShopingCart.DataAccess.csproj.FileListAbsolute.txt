@@ -1,0 +1,15 @@
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.deps.json
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.dll
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.pdb
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.Model.dll
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.Model.pdb
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.AssemblyInfo.cs
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.csproj.CopyComplete
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.dll
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\refint\ShopingCart.DataAccess.dll
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.pdb
+C:\Users\Michal\source\repos\ShopingCart.DataAccess\obj\Debug\net6.0\ref\ShopingCart.DataAccess.dll

@@ -1,0 +1,51 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 10px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+button {
+  background-color: #9f9fa7; 
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: lightgoldenrodyellow;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 4px;
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #3e413e; /* Green */
+  color: white;
+}
+
+input {
+  float: center;
+  text-align: center;
+  margin-top: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+  padding: auto;
+  border-radius: 8px;
+}
+
+label {
+  color: rgb(31, 30, 30);
+  padding: 16px;
+  margin: 3px;
+}
