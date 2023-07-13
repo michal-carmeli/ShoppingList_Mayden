@@ -4,7 +4,7 @@ import './styles.css';
 import { useEffect, useState } from "react";
 import { urlNewProduct,urlProducts, urlDeleteProduct } from '../endpoints';
 
-function ShopingCartCrud() {
+function ShoppingCartCrud() {
 
   const [name, setName] = useState("");
   const [price, setPrice] = useState(0);
@@ -171,4 +171,4 @@ function ShopingCartCrud() {
   );
 }
 
-export default ShopingCartCrud;
+export default ShoppingCartCrud;
