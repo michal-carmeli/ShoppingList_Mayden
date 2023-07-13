@@ -1,10 +1,10 @@
 import React from 'react';
-import ShopingCartCrud from "./components/ShopingCartCrud";
+import ShoppingCartCrud from "./components/ShoppingCartCrud";
 
 function App() {
   return (
     <div >
-      <ShopingCartCrud />
+      <ShoppingCartCrud />
     </div>
   );
 }
