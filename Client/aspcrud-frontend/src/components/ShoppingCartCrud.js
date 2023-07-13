@@ -77,7 +77,7 @@ function ShoppingCartCrud() {
 
   return (
     <div>
-      <h1>Shoping Cart Details</h1>
+      <h1>Shopping Cart Details</h1>
       <div>
         <form>
           <div>
